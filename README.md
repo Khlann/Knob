@@ -1,3 +1,9 @@
+# 2024设计制造knob开发板
+
+这个项目主要是移植esp32c3 knob lvgl开发板和飞特舵机，进行联合控制
+实现的效果是通过knob板上的旋钮对舵机的选择角度组合进行选择
+主要功能是示教和角度控制，能够读取电流，力矩，转速，角度等信息
+
 # Knob Panel Example
 
 A GUI Demo designed for knob panel which has the voice playback function.

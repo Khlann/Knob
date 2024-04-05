@@ -1,0 +1,11 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ],
+    "files.associations": {
+        "uart.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM42"
+}
